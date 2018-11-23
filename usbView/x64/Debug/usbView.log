@@ -1,0 +1,9 @@
+﻿  debug.c
+  devnode.c
+  dispaud.c
+  display.c
+  enum.c
+  usbview.c
+  正在生成代码...
+  usbView.vcxproj -> F:\usbView\usbView\x64\Debug\usbView.exe
+  usbView.vcxproj -> F:\usbView\usbView\x64\Debug\usbView.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  usbview.c
+  enum.c
+  display.c
+  dispaud.c
+  devnode.c
+  debug.c
+  正在生成代码...
+debug.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  usbView.vcxproj -> F:\usbView\usbView\Debug\usbView.exe
+  usbView.vcxproj -> F:\usbView\usbView\Debug\usbView.pdb (Full PDB)
